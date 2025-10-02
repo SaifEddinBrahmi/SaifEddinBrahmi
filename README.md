@@ -10,7 +10,7 @@
 
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -24,32 +24,45 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
 
-###
+---
 
-### 🚀 About Me
+## 🚀 About Me
 
 I'm currently working on:
 
 • **Edge AI & Embedded Systems**
+
 • **Autonomous Systems & Robotics**
+
 • **Real-time Signal Processing**
 
 ## 🎯 Learning Goals
 
 • Open-source contributions to embedded systems and AI tools
+
 • Advanced **Robotics** and **Autonomous Systems** development
 
 ---
 
+<div align="center">
+
 ## 🎯 Seeking PFE in
-**Robotics • Automotive • Embedded Systems • Healthcare Tech •Edge AI**
+**Robotics • Automotive • Embedded Systems • Healthcare Tech • Edge AI**
+
+</div>
 
 ---
+<div align="center">
+
 ## 🏆 Highlights
 🥇 **14th Nationally** - TCPC 2024 | ⭐ **Codeforces Specialist** (1400+) | 👥 **Mentor** 40+ students
 
+</div>
+
 ---
 
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Saif%20Eddin%20Brahmi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saif-eddin-brahmi-5a64b121a/)
 [![Email](https://img.shields.io/badge/📧%20Email-saifeddin.brahmi%40ensi--uma.tn-red?style=for-the-badge)](mailto:saifeddin.brahmi@ensi-uma.tn)
@@ -58,3 +71,5 @@ I'm currently working on:
 ![Profile Views](https://komarev.com/ghpvc/?username=SaifEddinBrahmi&color=blueviolet&style=flat-square)
 
 *"Transforming ideas into intelligent embedded solutions"* 🚀
+
+</div>
