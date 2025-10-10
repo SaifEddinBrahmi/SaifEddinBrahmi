@@ -2,11 +2,8 @@
 
 # Hi there! 👋 I'm Saif Eddin BRAHMI
 
-**Computer Science Engineering & Master in Smart Systems & IoT**  
+**Computer Science Engineering & Master in Smart Systems**  
 **ENSI - Final Year** | *Seeking PFE Opportunities*
-
----
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Medissaoui07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 </div>
 
@@ -34,8 +31,6 @@ I'm currently working on:
 
 • **Autonomous Systems & Robotics**
 
-• **Real-time Signal Processing**
-
 ## 🎯 Learning Goals
 
 • Open-source contributions to embedded systems and AI tools
@@ -43,20 +38,18 @@ I'm currently working on:
 • Advanced **Robotics** and **Autonomous Systems** development
 
 ---
-
-<div align="center">
-
-## 🎯 Seeking PFE in
-**Robotics • Automotive • Embedded Systems • Healthcare Tech • Edge AI**
-
-</div>
-
----
-<div align="center">
-
-## 🏆 Highlights
-🥇 **14th Nationally** - TCPC 2024 | ⭐ **Codeforces Specialist** (1400+) | 👥 **Mentor** 40+ students
-
+<div>
+  <a href="https://codeforces.com/profile/07SAIF07" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" alt="Codeforces" />
+  </a>
+  <img width="20" />
+  <a href="https://leetcode.com/SaifBrahmi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" alt="LeetCode" />
+  </a>
+  <img width="20" />
+  <a href="https://www.kaggle.com/brahmisaif" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" alt="Kaggle" />
+  </a>
 </div>
 
 ---
