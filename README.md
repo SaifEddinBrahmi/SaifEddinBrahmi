@@ -29,6 +29,8 @@ I'm currently working on:
 
 • **Edge AI & Embedded Systems**
 
+• **Deep Learning & Computer Vision**
+
 • **Autonomous Systems & Robotics**
 
 ## 🎯 Learning Goals
