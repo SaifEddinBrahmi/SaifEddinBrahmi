@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi there! 👋 I'm Saif Eddin BRAHMI
+# Hi there! 👋 I'm Saief Eddine BRAHMI
 
 **Computer Science Engineering & Master in Smart Systems**  
-**ENSI - Final Year** | *Seeking PFE Opportunities*
+**ENSI - Final Year** |
 
 </div>
 
@@ -27,17 +27,16 @@
 
 I'm currently working on:
 
+
+• **Robotics & Autonomous Systems**
+• **Deep Learning & Computer Vision**
 • **Edge AI & Embedded Systems**
 
-• **Deep Learning & Computer Vision**
 
-• **Autonomous Systems & Robotics**
 
 ## 🎯 Learning Goals
 
-• Open-source contributions to embedded systems and AI tools
-
-• Advanced **Robotics** and **Autonomous Systems** development
+• Open-source contributions to Robotics and Autonomous Systems.
 
 ---
 <div>
