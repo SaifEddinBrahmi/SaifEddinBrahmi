@@ -29,7 +29,9 @@ I'm currently working on:
 
 
 • **Robotics & Autonomous Systems**
+
 • **Deep Learning & Computer Vision**
+
 • **Edge AI & Embedded Systems**
 
 
